@@ -1,0 +1,18 @@
+{
+   "id":7,
+   "itemRequests":[
+      {
+         "itemName":"Beanie",
+         "amount":400,
+         "isComplete": false
+      },
+	{
+	"itemName":"Socks",
+	"amount":200,
+	"isComplete": false
+	}
+   ],
+   "story":"Dear Granny, some of those figures outside came knocking at our door but Dad told us not to let them in. Geiger counter has been noisy. Could you make some beanies I could put one on mr. Geiger to silence him?",
+   "reward": 30,
+   "characterId": 2
+}

@@ -1,0 +1,17 @@
+{
+  "itemId": 1,
+  "itemName": "Elderly Gym",
+  "itemDesc": "This is an epic test description",
+  "maxLevel": 3,
+  "cost": 20,
+  "tapStrength": [
+    1.0,
+    2.0,
+    3.0
+  ],
+  "idleStrength": [
+    1.0,
+    2.0,
+    3.0
+  ]
+}

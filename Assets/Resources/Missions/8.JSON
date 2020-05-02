@@ -1,0 +1,18 @@
+{
+   "id":8,
+   "itemRequests":[
+      {
+         "itemName":"Beanie",
+         "amount":500,
+         "isComplete": false
+      },
+      {
+      "itemName":"Socks",
+      "amount":300,
+      "isComplete": false
+      }
+   ],
+   "story":"Dear Granny, I couldn’t sleep last night. Dad says it’s wind howling outside but I don’t believe it. My boots and beanie are getting small, could you make me and Tim new beanies and socks. He ate the last ones.",
+   "reward": 30,
+   "characterId": 3
+}

@@ -1,0 +1,17 @@
+{
+  "itemId": 2,
+  "itemName": "Needles",
+  "itemDesc": "This is an epic test description",
+  "maxLevel": 3,
+  "cost": 40,
+  "tapStrength": [
+    1.3,
+    2.8,
+    4.0
+  ],
+  "idleStrength": [
+    2.0,
+    3.0,
+    5.0
+  ]
+}

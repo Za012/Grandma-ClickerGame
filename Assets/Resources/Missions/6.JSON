@@ -1,0 +1,18 @@
+{
+   "id":6,
+   "itemRequests":[
+      {
+         "itemName":"Scarf",
+         "amount":300,
+         "isComplete": false
+      },
+      {
+      "itemName":"Socks",
+      "amount":75,
+      "isComplete": false
+      }
+   ],
+   "story":"Dear Granny, Tim has started to make weird noises and gnaw on everything. I have seen some figures outside, they must have reeeeally warm clothes. Could you make some scarves we could tie together and play skipping rope?",
+   "reward": 50,
+   "characterId": 2
+}

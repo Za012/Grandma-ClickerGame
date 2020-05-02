@@ -1,0 +1,13 @@
+{
+    "id":0,
+    "itemRequests":[
+       {
+          "itemName":"Scarf",
+          "amount":10,
+          "isComplete": false
+       }
+    ],
+    "story":"Dear Granny, I hope you’re doing well. We are doing well here. Little Tim is having his first tooth and is trying to bite everything, it is annoying. It’s really cold here and I need a new Scarf.",
+    "reward": 25,
+   "characterId": 1
+ }

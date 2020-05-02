@@ -1,0 +1,13 @@
+{
+   "id":4,
+   "itemRequests":[
+      {
+         "itemName":"Socks",
+         "amount":35,
+         "isComplete": false
+      }
+   ],
+   "story":"Dear Granny, we went for a walk to a nearby shop today. I stepped on something gooey and it ruined my shoe and my sock. Could you make me some socks while I wait for new shoes?",
+   "reward": 30,
+   "characterId": 2
+}

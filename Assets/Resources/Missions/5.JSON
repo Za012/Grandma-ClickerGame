@@ -1,0 +1,18 @@
+{
+   "id":4,
+   "itemRequests":[
+      {
+         "itemName":"Beanie",
+         "amount":100,
+         "isComplete": false
+      },
+      {
+         "itemName":"Mittens",
+         "amount":50,
+         "isComplete": false
+      }
+   ],
+   "story":"Dear Granny I looked outside last night and saw weird green lights in the sky. I wonder what that was. But it was really beautiful. Do you have shiny rain there where you live, Granny?",
+   "reward": 50,
+   "characterId": 2
+}

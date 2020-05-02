@@ -1,0 +1,13 @@
+{
+    "id":3,
+    "itemRequests":[
+       {
+          "itemName":"Mittens",
+          "amount":25,
+          "isComplete": false
+       }
+    ],
+    "story":"Dear Granny I think Tim is sick. His eyes look a bit weird and he tries to bite everything. He destroyed my favourite book even. Could you make us all a pair of mittens, so little Tim wouldn’t bite us?",
+    "reward": 20,
+   "characterId": 1
+ }

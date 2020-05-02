@@ -1,0 +1,18 @@
+{
+   "id":9,
+   "itemRequests":[
+      {
+         "itemName":"Beanie",
+         "amount":1000,
+         "isComplete": false
+      },
+      {
+      "itemName":"Gasmask",
+      "amount":150,
+      "isComplete": false
+      }
+   ],
+   "story":"Dear Granny. Mr. Greiger is broken. We went out and met the people there, and saw the sun, can you believe that! It’s freezing but I don’t feel cold anymore. It stinks outside, could you make us some masks like this?",
+   "reward": 50,
+   "characterId": 3
+}

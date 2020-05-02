@@ -1,0 +1,17 @@
+{
+  "itemId": 3,
+  "itemName": "Pills",
+  "itemDesc": "This is an epic test description",
+  "maxLevel": 3,
+  "cost": 40,
+  "tapStrength": [
+    1.4,
+    2.5,
+    3.4
+  ],
+  "idleStrength": [
+    1.2,
+    2.3,
+    3.0
+  ]
+}

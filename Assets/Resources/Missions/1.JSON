@@ -1,0 +1,13 @@
+{
+   "id":1,
+   "itemRequests":[
+      {
+         "itemName":"Beanie",
+         "amount":25,
+         "isComplete": false
+      }
+   ],
+   "story":"Dear Granny, are you doing well? I think Mom is sick, but it’s probably nothing. We’ve all had a bit of fever lately. And it has gotten even colder outside lately! Can you make us all beanies?",
+   "reward": 35,
+   "characterId": 1
+}

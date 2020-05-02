@@ -1,0 +1,17 @@
+{
+  "itemId": 0,
+  "itemName": "Exo Gloves",
+  "itemDesc": "This is an epic test description",
+  "maxLevel": 3,
+  "cost": 30,
+  "tapStrength": [
+    1.5,
+    2.5,
+    4.0
+  ],
+  "idleStrength": [
+    1.0,
+    2.0,
+    3.0
+  ]
+}

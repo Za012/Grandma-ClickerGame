@@ -1,0 +1,18 @@
+{
+    "id":2,
+    "itemRequests":[
+       {
+          "itemName":"Beanie",
+          "amount":15,
+          "isComplete": false
+       },
+       {
+          "itemName":"Scarf",
+          "amount":30,
+          "isComplete": false
+       }
+    ],
+    "story":"Dear Granny the beanies are really awesome. Little Tim fits in them really nicely, could you make some beanies and scarves so I could build a swing? We’re gonna have to spend more time inside. Pleeeease, Granny?",
+    "reward": 30,
+   "characterId": 1
+ }
